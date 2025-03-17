@@ -3,9 +3,9 @@
 ## Descripción
 
 Este proyecto es una aplicación sencilla en React que verifica si un texto dado es un palíndromo o no.  
-Forma parte del proceso de selección para el Ethereum Developer Pack organizado por Henry y ETH Kipu.
+Forma parte del proceso de selección para el Ethereum Developer Pack organizado por [Henry](https://www.soyhenry.com) y [ETH Kipu](https://www.ethkipu.org/es).
 
-Vale destacar que este proyecto es una versión actualizada y lista para ser desplegada, de la implementación escrita en la sección "Build a Palindrome Checker" de la certificación "JavaScript Algorithms and Data Structures" en freeCodeCamp. 
+Vale destacar que este proyecto es una versión actualizada y lista para ser probada en servidor local, de la implementación escrita en la sección "Build a Palindrome Checker" de la certificación "JavaScript Algorithms and Data Structures" en freeCodeCamp. 
 
 ## Características
 
