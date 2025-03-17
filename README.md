@@ -60,7 +60,7 @@ El proyecto cumple con los siguientes requisitos de freeCodeCamp:
 
 ## Autor
 
-Desarrollado por [Tu Nombre] para el curso de Ethereum Developer Pack organizado por Henry y ETH Kipu.
+Desarrollado por [Hoover Zavala](https://www.linkedin.com/in/hoover-zavala) para el curso de Ethereum Developer Pack organizado por Henry y ETH Kipu.
 
 ## Licencia
 
