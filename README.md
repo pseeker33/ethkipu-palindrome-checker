@@ -1,4 +1,11 @@
-# Verificador de Palíndromos
+# <h1 align=center> **`Verificador de Palíndromos`** </h1>
+
+<p align="center">
+    <img src="./public/img/portrait.png"  height=400>
+    
+</p>
+
+<br>
 
 ## Descripción
 
